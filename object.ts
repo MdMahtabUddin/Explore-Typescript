@@ -7,7 +7,11 @@ type Person = {
     salary: number
 }
 
-
+const student: Person = {
+    name: 'Kamal Atartuk',
+    age: 115,
+    salary: 4500
+}
 const employee: { name: string, age: number, salary: number } = {
     name: 'Solaiman',
     age: 29,
