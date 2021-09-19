@@ -4,12 +4,15 @@ let honey = '';
 let kony = false;
  */
 
-let money: number = 88;
-let honey: string = 'O my sweet Heart honey dew dew peu peu';
-let funny: boolean = true;
+// let money: number = 88;
+// let honey: string = 'O my sweet Heart honey dew dew peu peu';
+// let funny: boolean = true;
 
-const age: number = 21;
+// const age: number = 21;
 
+let money: number =90;
+let honey: string ='love u baby';
+let funny : boolean= true;
 
 
 
